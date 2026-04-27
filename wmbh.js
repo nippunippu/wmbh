@@ -1,1 +1,1 @@
-const myVar = 'console.log("np");';
+console.log("Nip was here");
