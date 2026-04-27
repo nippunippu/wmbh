@@ -7,3 +7,5 @@ button.id = "myNewButton";
 button.textContent = "WIP Button";
 
 container.appendChild(button);
+
+console.log("Nip test!");
