@@ -1,1 +1,3 @@
-console.log("Nip was here");
+(function() {
+    console.log("Nip was here");
+})();
