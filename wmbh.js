@@ -18,7 +18,7 @@ document.addEventListener("click", function (e) {
 // hu string sound and other sounds
 const chat = document.getElementById("messagebuffer");
 
-const GLOBAL_VOLUME = 0;
+const GLOBAL_VOLUME = 1;
 
 const soundMap = {
   hu: "https://files.catbox.moe/vubijo.mp3",
